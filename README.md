@@ -19,5 +19,3 @@ This repository contains a comprehensive time series analysis of stock price dat
 - Stationarity testing and transformation
 This project serves as a practical example of applying time series methods to financial data, making it useful for learners, researchers, and practitioners interested in forecasting, econometrics, or quantitative finance.
 
-That’s a polished description that will make your repo look professional and clear to visitors.
-👉 Do you want me to also draft a README.md template (with sections like Installation, Usage, Results, and Visualizations) so you can upload it directly to GitHub?
